@@ -1,0 +1,10 @@
+title: "YongpeiCai - Academic Website"
+description: "Your research and professional profile"
+baseurl: ""
+url: "https://YongpeiCai.github.io"
+github_username: Yongpei-Cai
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
